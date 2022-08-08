@@ -1,0 +1,7 @@
+europoint\onboarding\repository\RiscScoreRepository.class
+europoint\onboarding\Service\RiscScoreServiceImpl.class
+europoint\onboarding\OnboardingApplication.class
+europoint\onboarding\Service\RiscScoreService.class
+europoint\onboarding\model\DTORiscScore.class
+europoint\onboarding\model\EntityRiscScore.class
+europoint\onboarding\controller\RiscScoreController.class
